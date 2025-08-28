@@ -1,4 +1,4 @@
-🔍 Overview
+ Overview
 
 The main objective of this task is to:
 
@@ -11,12 +11,11 @@ Identify trends, patterns, and anomalies
 Perform hypothesis testing and validate assumptions
 
 Detect potential data quality issues (null values, errors)
-
-📂 Dataset
+ Dataset
 
 The dataset used in this task is merged_index.csv, which contains information about coffee names, prices (money), and other attributes.
 
-⚙️ Steps Performed
+ Steps Performed
 
 Data Loading
 
@@ -44,7 +43,7 @@ Data Quality Checks
 
 Detected missing and null values
 
-🛠️ Libraries Used
+ Libraries Used
 
 NumPy – Numerical operations
 
@@ -54,7 +53,7 @@ Matplotlib – Data visualization
 
 SciPy – Hypothesis testing (t-test)
 
-📈 Results & Insights
+Results & Insights
 
 Coffee type distribution shows certain popular choices.
 
@@ -63,8 +62,8 @@ Price distributions differ across coffee categories.
 Hypothesis testing provides insights into whether the price difference between coffee types is statistically significant.
 
 Null values were detected and need to be handled for further analysis.
-
-🚀 How to Run
+ 
+ How to Run
 
 Clone this repository
 
@@ -78,6 +77,6 @@ jupyter notebook Code_alpha_task2.ipynb
 
 Run all cells to reproduce the analysis.
 
-📌 Conclusion
+ Conclusion
 
 This task gave hands-on practice in Exploratory Data Analysis (EDA), focusing on data exploration, visualization, statistical testing, and data quality checks. It forms the foundation for building deeper insights in future tasks.
